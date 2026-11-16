@@ -1,4 +1,4 @@
-﻿import json
+import json
 import re
 import sys
 import unicodedata
@@ -67,6 +67,8 @@ for predigt in predigten:
             f"https://www.youtube.com/watch?v={video_id}"
         )
         hinzugefuegt += 1
+        print(f"NEUER TREFFER: {datei}")
+        print(f"YOUTUBE-LINK: {neue_links[datei]}")
     elif len(kandidaten) > 1:
         mehrdeutig += 1
 
