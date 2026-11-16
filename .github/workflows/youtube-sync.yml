@@ -35,3 +35,9 @@ jobs:
 
       - name: Predigtvideos abgleichen
         run: python youtube_sync_github.py
+
+      - name: Testdatei zum Herunterladen bereitstellen
+        uses: actions/upload-artifact@v4
+        with:
+          name: videolinks-sync-test
+          path: videolinks_sync_test.json
