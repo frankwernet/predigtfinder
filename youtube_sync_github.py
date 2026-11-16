@@ -1,4 +1,5 @@
 import json
+import subprocess
 import re
 import sys
 import unicodedata
@@ -28,6 +29,27 @@ def normalisiere(text):
     )
     return "".join(re.findall(r"[a-z0-9]+", text))
 
+def ist_oeffentlich(video_id):
+    adresse = f"https://www.youtube.com/watch?v={video_id}"
+    try:
+        ergebnis = subprocess.run(
+            [
+                sys.executable, "-m", "yt_dlp",
+                "--skip-download",
+                "--no-warnings",
+                "--print", "%(availability)s",
+                adresse
+            ],
+            capture_output=True,
+            text=True,
+            timeout=60
+        )
+        return (
+            ergebnis.returncode == 0
+            and ergebnis.stdout.strip() == "public"
+        )
+    except (subprocess.TimeoutExpired, OSError):
+        return False
 videos = defaultdict(set)
 
 for zeile in zeilen:
@@ -61,7 +83,7 @@ for predigt in predigten:
     titel = Path(datei).stem
     kandidaten = videos.get(normalisiere(titel), set())
 
-    if len(kandidaten) == 1:
+    if len(kandidaten) == 1 and ist_oeffentlich(next(iter(kandidaten))):
         video_id = next(iter(kandidaten))
         neue_links[datei] = (
             f"https://www.youtube.com/watch?v={video_id}"
