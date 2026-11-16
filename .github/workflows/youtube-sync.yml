@@ -27,8 +27,11 @@ jobs:
       - name: YouTube-Kanal pruefen
         run: |
           yt-dlp --flat-playlist --ignore-errors --no-warnings \
-            --print "%(id)s" \
+            --print "%(id)s\t%(title)s" \
             "https://www.youtube.com/@frankwernet/videos" \
-            > youtube-test.txt
+            > youtube_sync_aktuell.txt
           echo "Gefundene Videos:"
-          wc -l < youtube-test.txt
+          wc -l < youtube_sync_aktuell.txt
+
+      - name: Predigtvideos abgleichen
+        run: python youtube_sync_github.py
