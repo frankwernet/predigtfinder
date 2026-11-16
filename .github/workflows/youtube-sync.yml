@@ -6,7 +6,7 @@ on:
     - cron: '0 3 * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   youtube-sync:
@@ -41,3 +41,41 @@ jobs:
         with:
           name: videolinks-sync-test
           path: videolinks_sync_test.json
+
+      - name: Neue Videolinks veroeffentlichen
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          alt = json.loads(Path("videolinks.json").read_text(encoding="utf-8-sig"))
+          neu = json.loads(Path("videolinks_sync_test.json").read_text(encoding="utf-8-sig"))
+
+          for name, url in alt.items():
+              if neu.get(name) != url:
+                  if not (
+                      url.startswith("https://1drv.ms/")
+                      and neu.get(name, "").startswith("https://www.youtube.com/watch?v=")
+                  ):
+                      raise SystemExit("SICHERHEITSSTOPP: Bestehender Link unerwartet veraendert.")
+
+          if neu != alt:
+              Path("videolinks.json").write_text(
+                  json.dumps(neu, ensure_ascii=False, indent=2) + "\n",
+                  encoding="utf-8"
+              )
+              print("Neue Videolinks zur Veroeffentlichung vorbereitet.")
+          else:
+              print("Keine neuen Videolinks vorhanden.")
+          PY
+
+          if git diff --quiet -- videolinks.json; then
+            echo "Keine Veroeffentlichung erforderlich."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -- videolinks.json
+            git commit -m "YouTube-Videolinks automatisch aktualisieren"
+            git push origin HEAD:main
+          fi
