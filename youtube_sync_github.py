@@ -1,0 +1,85 @@
+﻿import json
+import re
+import sys
+import unicodedata
+from collections import defaultdict
+from pathlib import Path
+
+basis = Path(__file__).resolve().parent
+
+predigten = json.loads(
+    (basis / "predigten.json").read_text(encoding="utf-8-sig")
+)["predigten"]
+
+links = json.loads(
+    (basis / "videolinks.json").read_text(encoding="utf-8-sig")
+)
+
+zeilen = (basis / "youtube_sync_aktuell.txt").read_text(
+    encoding="utf-8-sig"
+).splitlines()
+
+def normalisiere(text):
+    text = text.removesuffix(".mp4").casefold()
+    text = text.replace("ß", "ss")
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(
+        c for c in text if not unicodedata.combining(c)
+    )
+    return "".join(re.findall(r"[a-z0-9]+", text))
+
+videos = defaultdict(set)
+
+for zeile in zeilen:
+    teile = zeile.split("\t", 1)
+    if len(teile) != 2:
+        continue
+
+    video_id, titel = teile
+
+    if not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+        continue
+
+    videos[normalisiere(titel)].add(video_id)
+
+if sum(len(ids) for ids in videos.values()) < 400:
+    sys.exit("SICHERHEITSSTOPP: YouTube-Liste unvollstaendig.")
+
+neue_links = dict(links)
+hinzugefuegt = 0
+mehrdeutig = 0
+
+for predigt in predigten:
+    datei = predigt.get("video", "")
+
+    if not datei:
+        continue
+
+    if datei in neue_links and "youtube.com" in neue_links[datei]:
+        continue
+
+    titel = Path(datei).stem
+    kandidaten = videos.get(normalisiere(titel), set())
+
+    if len(kandidaten) == 1:
+        video_id = next(iter(kandidaten))
+        neue_links[datei] = (
+            f"https://www.youtube.com/watch?v={video_id}"
+        )
+        hinzugefuegt += 1
+    elif len(kandidaten) > 1:
+        mehrdeutig += 1
+
+ausgabe = basis / "videolinks_sync_test.json"
+ausgabe.write_text(
+    json.dumps(neue_links, ensure_ascii=False, indent=2) + "\n",
+    encoding="utf-8"
+)
+
+print("Neue Zuordnungen:", hinzugefuegt)
+print("Mehrdeutige Titel:", mehrdeutig)
+print("YouTube-Links insgesamt:", sum(
+    "youtube.com" in wert for wert in neue_links.values()
+))
+print("Testdatei:", ausgabe.name)
+print("GitHub wurde nicht veraendert.")
