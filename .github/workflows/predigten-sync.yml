@@ -1,0 +1,44 @@
+
+name: PredigtFinder TXT Synchronisierung
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'texte/**'
+      - 'predigten_sync.py'
+      - '.github/workflows/predigten-sync.yml'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  predigten-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Predigtliste aktualisieren
+        run: python predigten_sync.py
+
+      - name: Aenderungen veroeffentlichen
+        run: |
+          if git diff --quiet -- predigten.json; then
+            echo "Keine Aenderungen vorhanden."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add predigten.json
+            git commit -m "Predigtliste automatisch aktualisieren"
+            git push
+          fi
