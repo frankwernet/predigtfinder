@@ -82,3 +82,15 @@ print("TXT-Dateien gefunden:", len(txt_dateien))
 print("Neue Predigten:", neu)
 print("Predigten insgesamt:", len(predigten))
 print("Bestehende Zuordnungen beibehalten.")
+
+datums_datei.write_text(
+    json.dumps(
+        datums_map,
+        ensure_ascii=False,
+        indent=2
+    ) + "\n",
+    encoding="utf-8"
+)
+
+print("Datumsangaben insgesamt:", len(datums_map))
+
