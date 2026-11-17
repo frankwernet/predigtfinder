@@ -530,6 +530,11 @@
                           "titel":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel",
                           "datei":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel.txt",
                           "video":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel!.mp4"
+                      },
+                      {
+                          "titel":  "Die Religion ist nicht daran interessiert, Menschen zu retten",
+                          "datei":  "Die Religion ist nicht daran interessiert, Menschen zu retten.txt",
+                          "video":  "Die Religion ist nicht daran interessiert, Menschen zu retten.mp4"
                       }
                   ]
 }
