@@ -1,540 +1,545 @@
 {
-    "version":  1,
-    "predigten":  [
-                      {
-                          "titel":  "10 Geheimnisse der Gnade Gottes",
-                          "datei":  "10 Geheimnisse der Gnade Gottes.txt",
-                          "video":  "10 Geheimnisse der Gnade Gottes.mp4"
-                      },
-                      {
-                          "titel":  "6 Tipps von Zeitzeugen des Endes der Welt",
-                          "datei":  "6 Tipps von Zeitzeugen des Endes der Welt.txt",
-                          "video":  "6 Tipps von Zeitzeugen des Endes der Welt.mp4"
-                      },
-                      {
-                          "titel":  "Achtung vor falschen Lehrern",
-                          "datei":  "Achtung vor falschen Lehrern.txt",
-                          "video":  "Achtung vor falschen Lehrern.mp4"
-                      },
-                      {
-                          "titel":  "Bist du ein Jünger Christi oder ein Opfer deines Glaubens",
-                          "datei":  "Bist du ein Jünger Christi oder ein Opfer deines Glaubens.txt",
-                          "video":  "Bist du ein Jünger Christi oder ein Opfer deines Glaubens.mp4"
-                      },
-                      {
-                          "titel":  "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung",
-                          "datei":  "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung.txt",
-                          "video":  "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung.mp4"
-                      },
-                      {
-                          "titel":  "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige.",
-                          "datei":  "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige..txt",
-                          "video":  "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige.mp4"
-                      },
-                      {
-                          "titel":  "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist",
-                          "datei":  "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist.txt",
-                          "video":  "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist.mp4"
-                      },
-                      {
-                          "titel":  "Christus steht vor der Tür. Glauben Sie dem Wort Gottes",
-                          "datei":  "Christus steht vor der Tür. Glauben Sie dem Wort Gottes.txt",
-                          "video":  "Christus steht vor der Tür. Glauben Sie dem Wort Gottes.mp4"
-                      },
-                      {
-                          "titel":  "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt",
-                          "datei":  "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt.txt",
-                          "video":  "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt.mp4"
-                      },
-                      {
-                          "titel":  "Das Ende der Zeit der Heiden",
-                          "datei":  "Das Ende der Zeit der Heiden.txt",
-                          "video":  "Das Ende der Zeit der Heiden.mp4"
-                      },
-                      {
-                          "titel":  "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen",
-                          "datei":  "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen.txt",
-                          "video":  "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen.mp4"
-                      },
-                      {
-                          "titel":  "Das Himmelreich wird mit Anstrengung genommen",
-                          "datei":  "Das Himmelreich wird mit Anstrengung genommen.txt",
-                          "video":  "Das Himmelreich wird mit Anstrengung genommen.mp4"
-                      },
-                      {
-                          "titel":  "Das tägliche Gebet der Reue ist wahres Leben",
-                          "datei":  "Das tägliche Gebet der Reue ist wahres Leben.txt",
-                          "video":  "Das tägliche Gebet der Reue ist wahres Leben.mp4"
-                      },
-                      {
-                          "titel":  "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi",
-                          "datei":  "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi.txt",
-                          "video":  "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi.mp4"
-                      },
-                      {
-                          "titel":  "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen",
-                          "datei":  "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen.txt",
-                          "video":  "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen.mp4"
-                      },
-                      {
-                          "titel":  "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben",
-                          "datei":  "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben.txt",
-                          "video":  "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben.mp4"
-                      },
-                      {
-                          "titel":  "Der Unterschied zwischen der Herrlichkeit Gottes und der menschlichen Herrlichkeit",
-                          "datei":  "Der Unterschied zwischen der Herrlichkeit Gottes und der menschlichen Herrlichkeit.txt",
-                          "video":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel!.mp4"
-                      },
-                      {
-                          "titel":  "Die andere Welt weiß von unserem Leiden",
-                          "datei":  "Die andere Welt weiß von unserem Leiden.txt",
-                          "video":  "Die andere Welt weiß von unserem Leiden.mp4"
-                      },
-                      {
-                          "titel":  "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi",
-                          "datei":  "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi.txt",
-                          "video":  "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi.mp4"
-                      },
-                      {
-                          "titel":  "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe",
-                          "datei":  "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe.txt",
-                          "video":  "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe.mp4"
-                      },
-                      {
-                          "titel":  "Die biologische Evolution erklärt nicht die Struktur eines Satzes",
-                          "datei":  "Die biologische Evolution erklärt nicht die Struktur eines Satzes.txt",
-                          "video":  "Die biologische Evolution erklärt nicht die Struktur eines Satzes.mp4"
-                      },
-                      {
-                          "titel":  "Die digitale Kodierung der Sprache ist ein Beweis für Gott",
-                          "datei":  "Die digitale Kodierung der Sprache ist ein Beweis für Gott.txt",
-                          "video":  "Die digitale Kodierung der Sprache ist ein Beweis für Gott.mp4"
-                      },
-                      {
-                          "titel":  "Die Geheimnisse von Gesetz und Gnade",
-                          "datei":  "Die Geheimnisse von Gesetz und Gnade.txt",
-                          "video":  "Die Geheimnisse von Gesetz und Gnade.mp4"
-                      },
-                      {
-                          "titel":  "Die Generation, die dem Antichristen huldigt und Christus sehen wird",
-                          "datei":  "Die Generation, die dem Antichristen huldigt und Christus sehen wird.txt",
-                          "video":  "Die Generation, die dem Antichristen huldigt und Christus sehen wird.mp4"
-                      },
-                      {
-                          "titel":  "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes",
-                          "datei":  "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes.txt",
-                          "video":  "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes.mp4"
-                      },
-                      {
-                          "titel":  "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt",
-                          "datei":  "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt.txt",
-                          "video":  "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt.mp4"
-                      },
-                      {
-                          "titel":  "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte",
-                          "datei":  "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte.txt",
-                          "video":  "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte.mp4"
-                      },
-                      {
-                          "titel":  "Die mächtigste Predigt zur Austreibung des Teufels",
-                          "datei":  "Die mächtigste Predigt zur Austreibung des Teufels.txt",
-                          "video":  "Die mächtigste Predigt zur Austreibung des Teufels.mp4"
-                      },
-                      {
-                          "titel":  "Die Schöpfung der Welt und die Evolution",
-                          "datei":  "Die Schöpfung der Welt und die Evolution.txt",
-                          "video":  "Die Schöpfung der Welt und die Evolution.mp4"
-                      },
-                      {
-                          "titel":  "DIE ZEIT der zweiten Ankunft Christi",
-                          "datei":  "DIE ZEIT der zweiten Ankunft Christi.txt",
-                          "video":  "DIE ZEIT der zweiten Ankunft Christi.mp4"
-                      },
-                      {
-                          "titel":  "Die Zukunft wird von der Gegenwart bestimmt",
-                          "datei":  "Die Zukunft wird von der Gegenwart bestimmt.txt",
-                          "video":  "Die Zukunft wird von der Gegenwart bestimmt.mp4"
-                      },
-                      {
-                          "titel":  "DIENE DEM VOLK GOTTES",
-                          "datei":  "DIENE DEM VOLK GOTTES.txt",
-                          "video":  "DIENE DEM VOLK GOTTES.mp4"
-                      },
-                      {
-                          "titel":  "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN",
-                          "datei":  "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN.txt",
-                          "video":  "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN.mp4"
-                      },
-                      {
-                          "titel":  "Echter Glaube schenkt Gott das Wertvollste",
-                          "datei":  "Echter Glaube schenkt Gott das Wertvollste.txt",
-                          "video":  "Echter Glaube schenkt Gott das Wertvollste.mp4"
-                      },
-                      {
-                          "titel":  "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal",
-                          "datei":  "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal.txt",
-                          "video":  "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal.mp4"
-                      },
-                      {
-                          "titel":  "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt",
-                          "datei":  "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt.txt",
-                          "video":  "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt.mp4"
-                      },
-                      {
-                          "titel":  "Ein hoher Preis für deine Rettung",
-                          "datei":  "Ein hoher Preis für deine Rettung.txt",
-                          "video":  "Ein hoher Preis für deine Rettung.mp4"
-                      },
-                      {
-                          "titel":  "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft",
-                          "datei":  "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft.txt",
-                          "video":  "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft.mp4"
-                      },
-                      {
-                          "titel":  "Eine stolze Seele öffnet dem Satan die Tür",
-                          "datei":  "Eine stolze Seele öffnet dem Satan die Tür.txt",
-                          "video":  "Eine stolze Seele öffnet dem Satan die Tür.mp4"
-                      },
-                      {
-                          "titel":  "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot",
-                          "datei":  "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot.txt",
-                          "video":  "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot.mp4"
-                      },
-                      {
-                          "titel":  "Es gibt Gnade in deinem Leben",
-                          "datei":  "Es gibt Gnade in deinem Leben.txt",
-                          "video":  "Es gibt Gnade in deinem Leben.mp4"
-                      },
-                      {
-                          "titel":  "Es gibt viele Kirchen, aber nur eine Lehre. Roman und Olesja Lambow",
-                          "datei":  "Es gibt viele Kirchen, aber nur eine Lehre. Roman und Olesja Lambow.txt",
-                          "video":  "Es gibt viele Kirchen, aber nur eine Lehre.mp4"
-                      },
-                      {
-                          "titel":  "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger",
-                          "datei":  "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger.txt",
-                          "video":  "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger. Obwohl er erblindete, sah er Gott.mp4"
-                      },
-                      {
-                          "titel":  "Geschichten, die dem Leben Hoffnung und Sinn geben",
-                          "datei":  "Geschichten, die dem Leben Hoffnung und Sinn geben.txt",
-                          "video":  "Geschichten, die dem Leben Hoffnung und Sinn geben.mp4"
-                      },
-                      {
-                          "titel":  "Gibt es eine Hölle und ewige Qualen, oder nicht",
-                          "datei":  "Gibt es eine Hölle und ewige Qualen, oder nicht.txt",
-                          "video":  "Gibt es eine Hölle und ewige Qualen, oder nicht.mp4"
-                      },
-                      {
-                          "titel":  "Glaube ist das Wissen von Gott",
-                          "datei":  "Glaube ist das Wissen von Gott.txt",
-                          "video":  "Glaube ist das Wissen von Gott.mp4"
-                      },
-                      {
-                          "titel":  "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen",
-                          "datei":  "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen.txt",
-                          "video":  "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen.mp4"
-                      },
-                      {
-                          "titel":  "Gläubige, ihr habt den Heiligen Geist verpasst",
-                          "datei":  "Gläubige, ihr habt den Heiligen Geist verpasst.txt",
-                          "video":  "Gläubige, ihr habt den Heiligen Geist verpasst.mp4"
-                      },
-                      {
-                          "titel":  "GOTT EXISTIERT",
-                          "datei":  "GOTT EXISTIERT.txt",
-                          "video":  "GOTT EXISTIERT.mp4"
-                      },
-                      {
-                          "titel":  "Gott prüft den Glauben, um mehr zu geben",
-                          "datei":  "Gott prüft den Glauben, um mehr zu geben.txt",
-                          "video":  "Gott prüft den Glauben, um mehr zu geben.mp4"
-                      },
-                      {
-                          "titel":  "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow",
-                          "datei":  "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow.txt",
-                          "video":  "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow.mp4"
-                      },
-                      {
-                          "titel":  "Gottes WILLE, GEIST und BLUT sind wahre Gnade",
-                          "datei":  "Gottes WILLE, GEIST und BLUT sind wahre Gnade.txt",
-                          "video":  "Gottes WILLE, GEIST und BLUT sind wahre Gnade.mp4"
-                      },
-                      {
-                          "titel":  "Ich habe eine Erinnerungsfunktion eingerichtet^J weil ich mir die Punkte des Schülers Christi nicht merken konnte",
-                          "datei":  "Ich habe eine Erinnerungsfunktion eingerichtet^J weil ich mir die Punkte des Schülers Christi nicht merken konnte.txt",
-                          "video":  "Ich habe eine Erinnerungsfunktion eingerichtet, weil ich mir die Punkte des Schülers Christi nicht merken konnte.mp4"
-                      },
-                      {
-                          "titel":  "Ich wurde mit vier Kindern allein zurückgelassen",
-                          "datei":  "Ich wurde mit vier Kindern allein zurückgelassen.txt",
-                          "video":  "Ich wurde mit vier Kindern allein zurückgelassen. Aber Gott hat mich besucht und mich in Seine Familie gerufen.mp4"
-                      },
-                      {
-                          "titel":  "Im Menschen gibt es eine Leere, so groß wie Gott",
-                          "datei":  "Im Menschen gibt es eine Leere, so groß wie Gott.txt",
-                          "video":  "Im Menschen gibt es eine Leere, so groß wie Gott.mp4"
-                      },
-                      {
-                          "titel":  "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi",
-                          "datei":  "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi.txt",
-                          "video":  "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi.mp4"
-                      },
-                      {
-                          "titel":  "Isaak Newton. Keine Wissenschaft ohne Gott",
-                          "datei":  "Isaak Newton. Keine Wissenschaft ohne Gott.txt",
-                          "video":  "Isaak Newton. Keine Wissenschaft ohne Gott.mp4"
-                      },
-                      {
-                          "titel":  "Ist es notwendig, Königen zu gehorchen",
-                          "datei":  "Ist es notwendig, Königen zu gehorchen.txt",
-                          "video":  "Ist es notwendig, Königen zu gehorchen.mp4"
-                      },
-                      {
-                          "titel":  "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte",
-                          "datei":  "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte.txt",
-                          "video":  "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte.mp4"
-                      },
-                      {
-                          "titel":  "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren. Wen wählt Gott",
-                          "datei":  "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren. Wen wählt Gott.txt",
-                          "video":  "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren.mp4"
-                      },
-                      {
-                          "titel":  "Mach einen Schritt auf Gott zu",
-                          "datei":  "Mach einen Schritt auf Gott zu.txt",
-                          "video":  "Mach einen Schritt auf Gott zu.mp4"
-                      },
-                      {
-                          "titel":  "Nicht jeder, der zu mir sagt Herr, Herr, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut",
-                          "datei":  "Nicht jeder, der zu mir sagt Herr, Herr, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut.txt",
-                          "video":  "Nicht jeder, der zu mir sagt Herr, Herr!, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut.mp4"
-                      },
-                      {
-                          "titel":  "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft",
-                          "datei":  "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft.txt",
-                          "video":  "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft.mp4"
-                      },
-                      {
-                          "titel":  "Öffne die Tür in die spirituelle Welt",
-                          "datei":  "Öffne die Tür in die spirituelle Welt.txt",
-                          "video":  "Öffne die Tür in die spirituelle Welt.mp4"
-                      },
-                      {
-                          "titel":  "Ohne GOTT sind die Menschen Bestien",
-                          "datei":  "Ohne GOTT sind die Menschen Bestien.txt",
-                          "video":  "Ohne GOTT sind die Menschen Bestien.mp4"
-                      },
-                      {
-                          "titel":  "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen",
-                          "datei":  "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen.txt",
-                          "video":  "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen.mp4"
-                      },
-                      {
-                          "titel":  "Opfer der Priester im Alten und Neuen Testament",
-                          "datei":  "Opfer der Priester im Alten und Neuen Testament.txt",
-                          "video":  "Opfer der Priester im alten und neuen Testament .mp4"
-                      },
-                      {
-                          "titel":  "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal",
-                          "datei":  "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal.txt",
-                          "video":  "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal.mp4"
-                      },
-                      {
-                          "titel":  "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können",
-                          "datei":  "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können.txt",
-                          "video":  "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können.mp4"
-                      },
-                      {
-                          "titel":  "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische",
-                          "datei":  "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische.txt",
-                          "video":  "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische.mp4"
-                      },
-                      {
-                          "titel":  "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski.",
-                          "datei":  "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski..txt",
-                          "video":  "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski..mp4"
-                      },
-                      {
-                          "titel":  "Seelische Experten verstehen die Weltlage nicht",
-                          "datei":  "Seelische Experten verstehen die Weltlage nicht.txt",
-                          "video":  "Seelische Experten verstehen die Weltlage nicht.mp4"
-                      },
-                      {
-                          "titel":  "Segen und Fluch im Neuen Testament",
-                          "datei":  "Segen und Fluch im Neuen Testament.txt",
-                          "video":  "Segen und Fluch nach dem Neuen Testament.mp4"
-                      },
-                      {
-                          "titel":  "Segen und Fluch nach dem Neuen Testament",
-                          "datei":  "Segen und Fluch nach dem Neuen Testament.txt",
-                          "video":  "Segen und Fluch im Neuen Testament.mp4"
-                      },
-                      {
-                          "titel":  "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis",
-                          "datei":  "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis.txt",
-                          "video":  "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis.mp4"
-                      },
-                      {
-                          "titel":  "Seid fleissig im Glauben",
-                          "datei":  "Seid fleissig im Glauben.txt",
-                          "video":  "Seid fleissig im Glauben.mp4"
-                      },
-                      {
-                          "titel":  "Überlebensplan für die APOKALYPSE bis zum Jahr 2060",
-                          "datei":  "Überlebensplan für die APOKALYPSE bis zum Jahr 2060.txt",
-                          "video":  "Überlebensplan für die APOKALYPSE bis zum Jahr 2060.mp4"
-                      },
-                      {
-                          "titel":  "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren",
-                          "datei":  "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren.txt",
-                          "video":  "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren.mp4"
-                      },
-                      {
-                          "titel":  "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten",
-                          "datei":  "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten.txt",
-                          "video":  "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten.mp4"
-                      },
-                      {
-                          "titel":  "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen",
-                          "datei":  "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen.txt",
-                          "video":  "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen.mp4"
-                      },
-                      {
-                          "titel":  "Wähle dein Schicksal von Gott, ein Leben voller Segen",
-                          "datei":  "Wähle dein Schicksal von Gott, ein Leben voller Segen.txt",
-                          "video":  "Wähle dein Schicksal von Gott, ein Leben voller Segen.mp4"
-                      },
-                      {
-                          "titel":  "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief",
-                          "datei":  "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief.txt",
-                          "video":  "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief.mp4"
-                      },
-                      {
-                          "titel":  "Warum manche Kinder und Familien erfolgreich sind – und andere nicht",
-                          "datei":  "Warum manche Kinder und Familien erfolgreich sind – und andere nicht.txt",
-                          "video":  "Warum manche Kinder und Familien erfolgreich sind – und andere nicht.mp4"
-                      },
-                      {
-                          "titel":  "Was der Wille Gottes für dein Leben ist",
-                          "datei":  "Was der Wille Gottes für dein Leben ist.txt",
-                          "video":  "Was der Wille Gottes für dein Leben ist.mp4"
-                      },
-                      {
-                          "titel":  "Was ist die Motivation für deinen Dienst",
-                          "datei":  "Was ist die Motivation für deinen Dienst.txt",
-                          "video":  "Was ist die Motivation für deinen Dienst – Juri und Maya Pascal.mp4"
-                      },
-                      {
-                          "titel":  "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD",
-                          "datei":  "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD.txt",
-                          "video":  "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD.mp4"
-                      },
-                      {
-                          "titel":  "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten",
-                          "datei":  "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten.txt",
-                          "video":  "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten.mp4"
-                      },
-                      {
-                          "titel":  "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter",
-                          "datei":  "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter.txt",
-                          "video":  "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter.mp4"
-                      },
-                      {
-                          "titel":  "Wer die Welt regiert",
-                          "datei":  "Wer die Welt regiert.txt",
-                          "video":  "Wer die Welt regiert.mp4"
-                      },
-                      {
-                          "titel":  "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus",
-                          "datei":  "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus.txt",
-                          "video":  "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus.mp4"
-                      },
-                      {
-                          "titel":  "Wer ist der berühmteste auf YouTube",
-                          "datei":  "Wer ist der berühmteste auf YouTube.txt",
-                          "video":  "Wer ist der berühmteste auf YouTube.mp4"
-                      },
-                      {
-                          "titel":  "Wer ist der Hauptfeind des Antichrist",
-                          "datei":  "Wer ist der Hauptfeind des Antichrist.txt",
-                          "video":  "Wer ist der Hauptfeind des Antichrist.mp4"
-                      },
-                      {
-                          "titel":  "Werden Sie ein Jünger Christi",
-                          "datei":  "Werden Sie ein Jünger Christi.txt",
-                          "video":  "Werden Sie ein Jünger Christi.mp4"
-                      },
-                      {
-                          "titel":  "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden",
-                          "datei":  "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden.txt",
-                          "video":  "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden.mp4"
-                      },
-                      {
-                          "titel":  "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat",
-                          "datei":  "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat.txt",
-                          "video":  "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat.mp4"
-                      },
-                      {
-                          "titel":  "Wie kann man die FREUDE zurückgewinnen",
-                          "datei":  "Wie kann man die FREUDE zurückgewinnen.txt",
-                          "video":  "Wie kann man die FREUDE zurückgewinnen.mp4"
-                      },
-                      {
-                          "titel":  "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben",
-                          "datei":  "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben.txt",
-                          "video":  "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben.mp4"
-                      },
-                      {
-                          "titel":  "Wie man dem Teufel widersteht und Krebs besiegt",
-                          "datei":  "Wie man dem Teufel widersteht und Krebs besiegt.txt",
-                          "video":  "Wie man dem Teufel widersteht und Krebs besiegt.mp4"
-                      },
-                      {
-                          "titel":  "Wie man die Bibel interpretiert und wie man den Glauben stärkt",
-                          "datei":  "Wie man die Bibel interpretiert und wie man den Glauben stärkt.txt",
-                          "video":  "Wie man die Bibel interpretiert und wie man den Glauben stärkt.mp4"
-                      },
-                      {
-                          "titel":  "Wie man FRIEDEN und GUTES durch Glauben multipliziert",
-                          "datei":  "Wie man FRIEDEN und GUTES durch Glauben multipliziert.txt",
-                          "video":  "Wie man FRIEDEN und GUTES durch Glauben multipliziert.mp4"
-                      },
-                      {
-                          "titel":  "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte",
-                          "datei":  "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte.txt",
-                          "video":  "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte.mp4"
-                      },
-                      {
-                          "titel":  "Wie wurden Dominic Toretto aus Fast \u0026 Furious und Rose aus Titanic zu Pastoren",
-                          "datei":  "Wie wurden Dominic Toretto aus Fast \u0026 Furious und Rose aus Titanic zu Pastoren.txt",
-                          "video":  "Wie wurden Dominic Toretto aus Fast \u0026 Furious und Rose aus Titanic zu Pastoren.mp4"
-                      },
-                      {
-                          "titel":  "Wir leben im Zeitalter der Apostel und der biblischen Kirche",
-                          "datei":  "Wir leben im Zeitalter der Apostel und der biblischen Kirche.txt",
-                          "video":  "Wir leben im Zeitalter der Apostel und der biblischen Kirche.mp4"
-                      },
-                      {
-                          "titel":  "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen.",
-                          "datei":  "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen..txt",
-                          "video":  "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen.mp4"
-                      },
-                      {
-                          "titel":  "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen",
-                          "datei":  "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen.txt",
-                          "video":  "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen.mp4"
-                      },
-                      {
-                          "titel":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel",
-                          "datei":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel.txt",
-                          "video":  "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel!.mp4"
-                      },
-                      {
-                          "titel":  "Die Religion ist nicht daran interessiert, Menschen zu retten",
-                          "datei":  "Die Religion ist nicht daran interessiert, Menschen zu retten.txt",
-                          "video":  "Die Religion ist nicht daran interessiert, Menschen zu retten.mp4"
-                      }
-                  ]
+  "version": 1,
+  "predigten": [
+    {
+      "titel": "10 Geheimnisse der Gnade Gottes",
+      "datei": "10 Geheimnisse der Gnade Gottes.txt",
+      "video": "10 Geheimnisse der Gnade Gottes.mp4"
+    },
+    {
+      "titel": "6 Tipps von Zeitzeugen des Endes der Welt",
+      "datei": "6 Tipps von Zeitzeugen des Endes der Welt.txt",
+      "video": "6 Tipps von Zeitzeugen des Endes der Welt.mp4"
+    },
+    {
+      "titel": "Achtung vor falschen Lehrern",
+      "datei": "Achtung vor falschen Lehrern.txt",
+      "video": "Achtung vor falschen Lehrern.mp4"
+    },
+    {
+      "titel": "Bist du ein Jünger Christi oder ein Opfer deines Glaubens",
+      "datei": "Bist du ein Jünger Christi oder ein Opfer deines Glaubens.txt",
+      "video": "Bist du ein Jünger Christi oder ein Opfer deines Glaubens.mp4"
+    },
+    {
+      "titel": "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung",
+      "datei": "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung.txt",
+      "video": "Blaise Pascal. Gott kann nicht durch Formeln erfasst werden, sondern nur durch spirituelle Erfahrung und Offenbarung.mp4"
+    },
+    {
+      "titel": "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige.",
+      "datei": "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige..txt",
+      "video": "BLEIBEN SIE WACHSAM. Denn es gibt kluge und törichte Gläubige.mp4"
+    },
+    {
+      "titel": "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist",
+      "datei": "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist.txt",
+      "video": "Bringt  den Zehnten von allen Einkünften ins Lagerhaus, damit in meinem Haus Nahrung vorhanden ist.mp4"
+    },
+    {
+      "titel": "Christus steht vor der Tür. Glauben Sie dem Wort Gottes",
+      "datei": "Christus steht vor der Tür. Glauben Sie dem Wort Gottes.txt",
+      "video": "Christus steht vor der Tür. Glauben Sie dem Wort Gottes.mp4"
+    },
+    {
+      "titel": "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt",
+      "datei": "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt.txt",
+      "video": "DAS BUCH HENOCH. Die übernatürliche Macht der geistigen Welt.mp4"
+    },
+    {
+      "titel": "Das Ende der Zeit der Heiden",
+      "datei": "Das Ende der Zeit der Heiden.txt",
+      "video": "Das Ende der Zeit der Heiden.mp4"
+    },
+    {
+      "titel": "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen",
+      "datei": "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen.txt",
+      "video": "DAS GERICHT GOTTES STEHT BEVOR. Wie wird Gott mit dem Bösen umgehen.mp4"
+    },
+    {
+      "titel": "Das Himmelreich wird mit Anstrengung genommen",
+      "datei": "Das Himmelreich wird mit Anstrengung genommen.txt",
+      "video": "Das Himmelreich wird mit Anstrengung genommen.mp4"
+    },
+    {
+      "titel": "Das tägliche Gebet der Reue ist wahres Leben",
+      "datei": "Das tägliche Gebet der Reue ist wahres Leben.txt",
+      "video": "Das tägliche Gebet der Reue ist wahres Leben.mp4"
+    },
+    {
+      "titel": "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi",
+      "datei": "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi.txt",
+      "video": "Das wichtigste Zeichen des Christentums Woran erkennt man die Jünger Christi.mp4"
+    },
+    {
+      "titel": "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen",
+      "datei": "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen.txt",
+      "video": "Der Kampf um das Erbe. Zeugen der Geschichte der Menschheit. Wer steht hinter den Weltreligionen.mp4"
+    },
+    {
+      "titel": "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben",
+      "datei": "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben.txt",
+      "video": "Der Sieg über Krebs, Depression, die Hashimoto-Krankheit und Stottern durch Glauben.mp4"
+    },
+    {
+      "titel": "Der Unterschied zwischen der Herrlichkeit Gottes und der menschlichen Herrlichkeit",
+      "datei": "Der Unterschied zwischen der Herrlichkeit Gottes und der menschlichen Herrlichkeit.txt",
+      "video": "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel!.mp4"
+    },
+    {
+      "titel": "Die andere Welt weiß von unserem Leiden",
+      "datei": "Die andere Welt weiß von unserem Leiden.txt",
+      "video": "Die andere Welt weiß von unserem Leiden.mp4"
+    },
+    {
+      "titel": "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi",
+      "datei": "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi.txt",
+      "video": "Die Apokalypse und der Antichrist nähern sich, sie sind Vorboten der zweiten Ankunft Christi.mp4"
+    },
+    {
+      "titel": "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe",
+      "datei": "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe.txt",
+      "video": "Die Aufhebung des Familienfluchs! Schuldenknechtschaft, chronische Krankheiten, unglückliche Ehe.mp4"
+    },
+    {
+      "titel": "Die biologische Evolution erklärt nicht die Struktur eines Satzes",
+      "datei": "Die biologische Evolution erklärt nicht die Struktur eines Satzes.txt",
+      "video": "Die biologische Evolution erklärt nicht die Struktur eines Satzes.mp4"
+    },
+    {
+      "titel": "Die digitale Kodierung der Sprache ist ein Beweis für Gott",
+      "datei": "Die digitale Kodierung der Sprache ist ein Beweis für Gott.txt",
+      "video": "Die digitale Kodierung der Sprache ist ein Beweis für Gott.mp4"
+    },
+    {
+      "titel": "Die Geheimnisse von Gesetz und Gnade",
+      "datei": "Die Geheimnisse von Gesetz und Gnade.txt",
+      "video": "Die Geheimnisse von Gesetz und Gnade.mp4"
+    },
+    {
+      "titel": "Die Generation, die dem Antichristen huldigt und Christus sehen wird",
+      "datei": "Die Generation, die dem Antichristen huldigt und Christus sehen wird.txt",
+      "video": "Die Generation, die dem Antichristen huldigt und Christus sehen wird.mp4"
+    },
+    {
+      "titel": "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes",
+      "datei": "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes.txt",
+      "video": "Die Kirche ist nicht einfach nur eine Versammlung von Menschen. Sie ist die Familie Gottes.mp4"
+    },
+    {
+      "titel": "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt",
+      "datei": "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt.txt",
+      "video": "Die Macht der biblischen Kirche. Sie wird nicht vom Teufel besiegt.mp4"
+    },
+    {
+      "titel": "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte",
+      "datei": "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte.txt",
+      "video": "DIE MACHT DES GLAUBENDEN – das sind Ergebnisse, nicht leere Worte.mp4"
+    },
+    {
+      "titel": "Die mächtigste Predigt zur Austreibung des Teufels",
+      "datei": "Die mächtigste Predigt zur Austreibung des Teufels.txt",
+      "video": "Die mächtigste Predigt zur Austreibung des Teufels.mp4"
+    },
+    {
+      "titel": "Die Schöpfung der Welt und die Evolution",
+      "datei": "Die Schöpfung der Welt und die Evolution.txt",
+      "video": "Die Schöpfung der Welt und die Evolution.mp4"
+    },
+    {
+      "titel": "DIE ZEIT der zweiten Ankunft Christi",
+      "datei": "DIE ZEIT der zweiten Ankunft Christi.txt",
+      "video": "DIE ZEIT der zweiten Ankunft Christi.mp4"
+    },
+    {
+      "titel": "Die Zukunft wird von der Gegenwart bestimmt",
+      "datei": "Die Zukunft wird von der Gegenwart bestimmt.txt",
+      "video": "Die Zukunft wird von der Gegenwart bestimmt.mp4"
+    },
+    {
+      "titel": "DIENE DEM VOLK GOTTES",
+      "datei": "DIENE DEM VOLK GOTTES.txt",
+      "video": "DIENE DEM VOLK GOTTES.mp4"
+    },
+    {
+      "titel": "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN",
+      "datei": "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN.txt",
+      "video": "DIESES WORT GOTTES HEILT UND VERTREIBT DÄMONEN.mp4"
+    },
+    {
+      "titel": "Echter Glaube schenkt Gott das Wertvollste",
+      "datei": "Echter Glaube schenkt Gott das Wertvollste.txt",
+      "video": "Echter Glaube schenkt Gott das Wertvollste.mp4"
+    },
+    {
+      "titel": "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal",
+      "datei": "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal.txt",
+      "video": "Ein Anführer ist ein Diener. Das Geheimnis der Größe. Yuri und Maya Pascal.mp4"
+    },
+    {
+      "titel": "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt",
+      "datei": "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt.txt",
+      "video": "Ein Angriff auf Odessa! Die Welt ist von Gott für das Leben bestimmt. Diener des Satans zerstören die Welt.mp4"
+    },
+    {
+      "titel": "Ein hoher Preis für deine Rettung",
+      "datei": "Ein hoher Preis für deine Rettung.txt",
+      "video": "Ein hoher Preis für deine Rettung.mp4"
+    },
+    {
+      "titel": "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft",
+      "datei": "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft.txt",
+      "video": "Eine Kirche, die den Willen Gottes erfüllt – das ist Jüngerschaft.mp4"
+    },
+    {
+      "titel": "Eine stolze Seele öffnet dem Satan die Tür",
+      "datei": "Eine stolze Seele öffnet dem Satan die Tür.txt",
+      "video": "Eine stolze Seele öffnet dem Satan die Tür.mp4"
+    },
+    {
+      "titel": "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot",
+      "datei": "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot.txt",
+      "video": "Erlösung und Gnade erlangen wir nur durch den Glauben und Glaube ohne Werke ist tot.mp4"
+    },
+    {
+      "titel": "Es gibt Gnade in deinem Leben",
+      "datei": "Es gibt Gnade in deinem Leben.txt",
+      "video": "Es gibt Gnade in deinem Leben.mp4"
+    },
+    {
+      "titel": "Es gibt viele Kirchen, aber nur eine Lehre. Roman und Olesja Lambow",
+      "datei": "Es gibt viele Kirchen, aber nur eine Lehre. Roman und Olesja Lambow.txt",
+      "video": "Es gibt viele Kirchen, aber nur eine Lehre.mp4"
+    },
+    {
+      "titel": "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger",
+      "datei": "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger.txt",
+      "video": "Euler, Mathematiker legte die Grundlagen des Internets, diente in der Kirche und war Prediger. Obwohl er erblindete, sah er Gott.mp4"
+    },
+    {
+      "titel": "Geschichten, die dem Leben Hoffnung und Sinn geben",
+      "datei": "Geschichten, die dem Leben Hoffnung und Sinn geben.txt",
+      "video": "Geschichten, die dem Leben Hoffnung und Sinn geben.mp4"
+    },
+    {
+      "titel": "Gibt es eine Hölle und ewige Qualen, oder nicht",
+      "datei": "Gibt es eine Hölle und ewige Qualen, oder nicht.txt",
+      "video": "Gibt es eine Hölle und ewige Qualen, oder nicht.mp4"
+    },
+    {
+      "titel": "Glaube ist das Wissen von Gott",
+      "datei": "Glaube ist das Wissen von Gott.txt",
+      "video": "Glaube ist das Wissen von Gott.mp4"
+    },
+    {
+      "titel": "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen",
+      "datei": "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen.txt",
+      "video": "Glaube, Gehorsam und das Vorbild der Menschen Gottes führen zu spirituellem Wachstum und zu Ergebnissen.mp4"
+    },
+    {
+      "titel": "Gläubige, ihr habt den Heiligen Geist verpasst",
+      "datei": "Gläubige, ihr habt den Heiligen Geist verpasst.txt",
+      "video": "Gläubige, ihr habt den Heiligen Geist verpasst.mp4"
+    },
+    {
+      "titel": "GOTT EXISTIERT",
+      "datei": "GOTT EXISTIERT.txt",
+      "video": "GOTT EXISTIERT.mp4"
+    },
+    {
+      "titel": "Gott prüft den Glauben, um mehr zu geben",
+      "datei": "Gott prüft den Glauben, um mehr zu geben.txt",
+      "video": "Gott prüft den Glauben, um mehr zu geben.mp4"
+    },
+    {
+      "titel": "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow",
+      "datei": "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow.txt",
+      "video": "Gott schenkt ein neues Herz. Die Kraft der Vergebung und der Wiedergeburt. Michael und Ludmila Stepanow.mp4"
+    },
+    {
+      "titel": "Gottes WILLE, GEIST und BLUT sind wahre Gnade",
+      "datei": "Gottes WILLE, GEIST und BLUT sind wahre Gnade.txt",
+      "video": "Gottes WILLE, GEIST und BLUT sind wahre Gnade.mp4"
+    },
+    {
+      "titel": "Ich habe eine Erinnerungsfunktion eingerichtet^J weil ich mir die Punkte des Schülers Christi nicht merken konnte",
+      "datei": "Ich habe eine Erinnerungsfunktion eingerichtet^J weil ich mir die Punkte des Schülers Christi nicht merken konnte.txt",
+      "video": "Ich habe eine Erinnerungsfunktion eingerichtet, weil ich mir die Punkte des Schülers Christi nicht merken konnte.mp4"
+    },
+    {
+      "titel": "Ich wurde mit vier Kindern allein zurückgelassen",
+      "datei": "Ich wurde mit vier Kindern allein zurückgelassen.txt",
+      "video": "Ich wurde mit vier Kindern allein zurückgelassen. Aber Gott hat mich besucht und mich in Seine Familie gerufen.mp4"
+    },
+    {
+      "titel": "Im Menschen gibt es eine Leere, so groß wie Gott",
+      "datei": "Im Menschen gibt es eine Leere, so groß wie Gott.txt",
+      "video": "Im Menschen gibt es eine Leere, so groß wie Gott.mp4"
+    },
+    {
+      "titel": "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi",
+      "datei": "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi.txt",
+      "video": "Isaac Newton über die Apokalypse, das Ende der Welt und die zweite Ankunft Christi.mp4"
+    },
+    {
+      "titel": "Isaak Newton. Keine Wissenschaft ohne Gott",
+      "datei": "Isaak Newton. Keine Wissenschaft ohne Gott.txt",
+      "video": "Isaak Newton. Keine Wissenschaft ohne Gott.mp4"
+    },
+    {
+      "titel": "Ist es notwendig, Königen zu gehorchen",
+      "datei": "Ist es notwendig, Königen zu gehorchen.txt",
+      "video": "Ist es notwendig, Königen zu gehorchen.mp4"
+    },
+    {
+      "titel": "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte",
+      "datei": "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte.txt",
+      "video": "Jesus Christus zeigte Barmherzigkeit gegenüber einigen, während er andere verurteilte.mp4"
+    },
+    {
+      "titel": "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren. Wen wählt Gott",
+      "datei": "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren. Wen wählt Gott.txt",
+      "video": "Jesus kam, um das Verlorene zu suchen und zu retten, aber die Gläubigen wollen nicht einmal einen Finger rühren.mp4"
+    },
+    {
+      "titel": "Mach einen Schritt auf Gott zu",
+      "datei": "Mach einen Schritt auf Gott zu.txt",
+      "video": "Mach einen Schritt auf Gott zu.mp4"
+    },
+    {
+      "titel": "Nicht jeder, der zu mir sagt Herr, Herr, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut",
+      "datei": "Nicht jeder, der zu mir sagt Herr, Herr, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut.txt",
+      "video": "Nicht jeder, der zu mir sagt Herr, Herr!, wird in das Himmelreich eingehen, sondern nur der, der den Willen Gottes tut.mp4"
+    },
+    {
+      "titel": "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft",
+      "datei": "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft.txt",
+      "video": "Nick Vujicic inspiriert! Gehörlose und Menschen mit Behinderungen verkünden die Botschaft.mp4"
+    },
+    {
+      "titel": "Öffne die Tür in die spirituelle Welt",
+      "datei": "Öffne die Tür in die spirituelle Welt.txt",
+      "video": "Öffne die Tür in die spirituelle Welt.mp4"
+    },
+    {
+      "titel": "Ohne GOTT sind die Menschen Bestien",
+      "datei": "Ohne GOTT sind die Menschen Bestien.txt",
+      "video": "Ohne GOTT sind die Menschen Bestien.mp4"
+    },
+    {
+      "titel": "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen",
+      "datei": "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen.txt",
+      "video": "OPFER DER HEILIGKEIT verändern deine Zukunft von einem Fluch zu einem Segen.mp4"
+    },
+    {
+      "titel": "Opfer der Priester im Alten und Neuen Testament",
+      "datei": "Opfer der Priester im Alten und Neuen Testament.txt",
+      "video": "Opfer der Priester im alten und neuen Testament .mp4"
+    },
+    {
+      "titel": "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal",
+      "datei": "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal.txt",
+      "video": "OSTERREZEPT FÜR GLÜCK. Julia Saltanenko, Maya Pascal.mp4"
+    },
+    {
+      "titel": "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können",
+      "datei": "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können.txt",
+      "video": "QUANTENLÖSCHUNG und BEOBACHTEREFFEKT. Wie wir die Vergangenheit und die Zukunft neu schreiben können.mp4"
+    },
+    {
+      "titel": "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische",
+      "datei": "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische.txt",
+      "video": "Religion bezieht sich auf das Irdische und der Glaube auf das Himmlische.mp4"
+    },
+    {
+      "titel": "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski.",
+      "datei": "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski..txt",
+      "video": "Religion unterdrückt den Willen Gottes! Artem und Elena Belinski..mp4"
+    },
+    {
+      "titel": "Seelische Experten verstehen die Weltlage nicht",
+      "datei": "Seelische Experten verstehen die Weltlage nicht.txt",
+      "video": "Seelische Experten verstehen die Weltlage nicht.mp4"
+    },
+    {
+      "titel": "Segen und Fluch im Neuen Testament",
+      "datei": "Segen und Fluch im Neuen Testament.txt",
+      "video": "Segen und Fluch nach dem Neuen Testament.mp4"
+    },
+    {
+      "titel": "Segen und Fluch nach dem Neuen Testament",
+      "datei": "Segen und Fluch nach dem Neuen Testament.txt",
+      "video": "Segen und Fluch im Neuen Testament.mp4"
+    },
+    {
+      "titel": "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis",
+      "datei": "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis.txt",
+      "video": "Sei ein lebendiger Stein. Die Kirche in der Bedrängnis.mp4"
+    },
+    {
+      "titel": "Seid fleissig im Glauben",
+      "datei": "Seid fleissig im Glauben.txt",
+      "video": "Seid fleissig im Glauben.mp4"
+    },
+    {
+      "titel": "Überlebensplan für die APOKALYPSE bis zum Jahr 2060",
+      "datei": "Überlebensplan für die APOKALYPSE bis zum Jahr 2060.txt",
+      "video": "Überlebensplan für die APOKALYPSE bis zum Jahr 2060.mp4"
+    },
+    {
+      "titel": "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren",
+      "datei": "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren.txt",
+      "video": "Überprüfen Sie, wie Ihre rechte und linke Gehirnhälfte funktionieren.mp4"
+    },
+    {
+      "titel": "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten",
+      "datei": "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten.txt",
+      "video": "Verärgern Sie nicht Christus. Beleidigen Sie nicht den Propheten.mp4"
+    },
+    {
+      "titel": "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen",
+      "datei": "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen.txt",
+      "video": "Wacht auf und sammelt Vorräte für das ewige Leben, denn alles Irdische wird vergehen.mp4"
+    },
+    {
+      "titel": "Wähle dein Schicksal von Gott, ein Leben voller Segen",
+      "datei": "Wähle dein Schicksal von Gott, ein Leben voller Segen.txt",
+      "video": "Wähle dein Schicksal von Gott, ein Leben voller Segen.mp4"
+    },
+    {
+      "titel": "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief",
+      "datei": "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief.txt",
+      "video": "Warum haben die Menschen den Zöllner Matthäus verurteilt, während Gott ihn zu einem Apostel berief.mp4"
+    },
+    {
+      "titel": "Warum manche Kinder und Familien erfolgreich sind – und andere nicht",
+      "datei": "Warum manche Kinder und Familien erfolgreich sind – und andere nicht.txt",
+      "video": "Warum manche Kinder und Familien erfolgreich sind – und andere nicht.mp4"
+    },
+    {
+      "titel": "Was der Wille Gottes für dein Leben ist",
+      "datei": "Was der Wille Gottes für dein Leben ist.txt",
+      "video": "Was der Wille Gottes für dein Leben ist.mp4"
+    },
+    {
+      "titel": "Was ist die Motivation für deinen Dienst",
+      "datei": "Was ist die Motivation für deinen Dienst.txt",
+      "video": "Was ist die Motivation für deinen Dienst – Juri und Maya Pascal.mp4"
+    },
+    {
+      "titel": "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD",
+      "datei": "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD.txt",
+      "video": "Was passiert, WENN EIN MENSCH VON EINER SCHLANGE GEBISST WIRD.mp4"
+    },
+    {
+      "titel": "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten",
+      "datei": "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten.txt",
+      "video": "Weil die Gesetzlosigkeit zunimmt, wird die Liebe in vielen Menschen erkalten.mp4"
+    },
+    {
+      "titel": "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter",
+      "datei": "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter.txt",
+      "video": "Wer den Willen meines himmlischen Vaters tut, ist für mich Bruder, Schwester und Mutter.mp4"
+    },
+    {
+      "titel": "Wer die Welt regiert",
+      "datei": "Wer die Welt regiert.txt",
+      "video": "Wer die Welt regiert.mp4"
+    },
+    {
+      "titel": "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus",
+      "datei": "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus.txt",
+      "video": "Wer hat die Schlüssel zum Himmelreich - In welche Kirche ging Jesus.mp4"
+    },
+    {
+      "titel": "Wer ist der berühmteste auf YouTube",
+      "datei": "Wer ist der berühmteste auf YouTube.txt",
+      "video": "Wer ist der berühmteste auf YouTube.mp4"
+    },
+    {
+      "titel": "Wer ist der Hauptfeind des Antichrist",
+      "datei": "Wer ist der Hauptfeind des Antichrist.txt",
+      "video": "Wer ist der Hauptfeind des Antichrist.mp4"
+    },
+    {
+      "titel": "Werden Sie ein Jünger Christi",
+      "datei": "Werden Sie ein Jünger Christi.txt",
+      "video": "Werden Sie ein Jünger Christi.mp4"
+    },
+    {
+      "titel": "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden",
+      "datei": "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden.txt",
+      "video": "Wie die Ersten zu den Letzten und die Letzten zu den Ersten werden.mp4"
+    },
+    {
+      "titel": "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat",
+      "datei": "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat.txt",
+      "video": "Wie die Mission „Gottes Wort“ entstand und warum Gott uns erwählt hat.mp4"
+    },
+    {
+      "titel": "Wie kann man die FREUDE zurückgewinnen",
+      "datei": "Wie kann man die FREUDE zurückgewinnen.txt",
+      "video": "Wie kann man die FREUDE zurückgewinnen.mp4"
+    },
+    {
+      "titel": "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben",
+      "datei": "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben.txt",
+      "video": "Wie kann man in die GEGENWART GOTTES eintreten und die HERRLICHKEIT GOTTES lieben.mp4"
+    },
+    {
+      "titel": "Wie man dem Teufel widersteht und Krebs besiegt",
+      "datei": "Wie man dem Teufel widersteht und Krebs besiegt.txt",
+      "video": "Wie man dem Teufel widersteht und Krebs besiegt.mp4"
+    },
+    {
+      "titel": "Wie man die Bibel interpretiert und wie man den Glauben stärkt",
+      "datei": "Wie man die Bibel interpretiert und wie man den Glauben stärkt.txt",
+      "video": "Wie man die Bibel interpretiert und wie man den Glauben stärkt.mp4"
+    },
+    {
+      "titel": "Wie man FRIEDEN und GUTES durch Glauben multipliziert",
+      "datei": "Wie man FRIEDEN und GUTES durch Glauben multipliziert.txt",
+      "video": "Wie man FRIEDEN und GUTES durch Glauben multipliziert.mp4"
+    },
+    {
+      "titel": "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte",
+      "datei": "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte.txt",
+      "video": "Wie meine Depression und die Angst vor dem Tod verschwand und der Glaube kam, nachdem ich mit Pastoren gesprochen hatte.mp4"
+    },
+    {
+      "titel": "Wie wurden Dominic Toretto aus Fast & Furious und Rose aus Titanic zu Pastoren",
+      "datei": "Wie wurden Dominic Toretto aus Fast & Furious und Rose aus Titanic zu Pastoren.txt",
+      "video": "Wie wurden Dominic Toretto aus Fast & Furious und Rose aus Titanic zu Pastoren.mp4"
+    },
+    {
+      "titel": "Wir leben im Zeitalter der Apostel und der biblischen Kirche",
+      "datei": "Wir leben im Zeitalter der Apostel und der biblischen Kirche.txt",
+      "video": "Wir leben im Zeitalter der Apostel und der biblischen Kirche.mp4"
+    },
+    {
+      "titel": "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen.",
+      "datei": "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen..txt",
+      "video": "Woher die Sprache stammt. Wie Gehörlose den Heiligen Geist empfangen.mp4"
+    },
+    {
+      "titel": "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen",
+      "datei": "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen.txt",
+      "video": "Woher nimmst du dir das Recht, deine Mitmenschen zu verurteilen.mp4"
+    },
+    {
+      "titel": "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel",
+      "datei": "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel.txt",
+      "video": "Trinke nicht aus der Kanalisation, sonst wirst du ein Esel!.mp4"
+    },
+    {
+      "titel": "Die Religion ist nicht daran interessiert, Menschen zu retten",
+      "datei": "Die Religion ist nicht daran interessiert, Menschen zu retten.txt",
+      "video": "Die Religion ist nicht daran interessiert, Menschen zu retten.mp4"
+    },
+    {
+      "titel": "WER IST GOTT und WAS IST ER WIRKLICH GUT oder BÖSE",
+      "datei": "WER IST GOTT und WAS IST ER WIRKLICH GUT oder BÖSE.txt",
+      "video": "WER IST GOTT und WAS IST ER WIRKLICH GUT oder BÖSE.mp4"
+    }
+  ]
 }
