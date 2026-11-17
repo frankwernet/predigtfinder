@@ -124,7 +124,7 @@ for predigt in predigten:
             print("Oeffentlich:", ist_oeffentlich(next(iter(kandidaten))))
         print("=== ENDE DIAGNOSE ===")
 
-       if len(kandidaten) == 1:
+        if len(kandidaten) == 1:
         video_id = next(iter(kandidaten))
         neue_links[datei] = (
             f"https://www.youtube.com/watch?v={video_id}"
