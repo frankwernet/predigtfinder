@@ -1,9 +1,16 @@
 name: PredigtFinder YouTube Sync
 
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 3 * * *'
+  workflow_run:
+    workflows:
+      - "PredigtFinder TXT Synchronisierung"
+    types:
+      - completed
+
 
 permissions:
   contents: write
