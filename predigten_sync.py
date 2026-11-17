@@ -58,8 +58,13 @@ for datei in txt_dateien:
         "video": titel + ".mp4"
     })
 
+
     vorhandene.add(datei.name)
     neu += 1
+
+    if datei.name not in datums_map:
+        datums_map[datei.name] = heute
+
 
     print("Neue Predigt:", titel)
 
