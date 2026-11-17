@@ -91,6 +91,27 @@ for predigt in predigten:
 
     titel = Path(datei).stem
     kandidaten = videos.get(normalisiere(titel), set())
+    
+    if "WER IST GOTT" in titel.upper():
+        print("=== DIAGNOSE WER IST GOTT ===", flush=True)
+        print("Gesuchter Titel:", titel, flush=True)
+        print("Normalisierter Titel:", normalisiere(titel), flush=True)
+        print("Gefundene Video-IDs:", sorted(kandidaten), flush=True)
+        print(
+            "Erwartete Video-ID gefunden:",
+            "HGPstOAQras" in kandidaten,
+            flush=True
+        )
+
+        if len(kandidaten) == 1:
+            video_id = next(iter(kandidaten))
+            print(
+                "Oeffentlichkeitspruefung:",
+                ist_oeffentlich(video_id),
+                flush=True
+            )
+
+        print("=== ENDE DIAGNOSE ===", flush=True)
 
     if "Die Religion ist nicht daran interessiert" in titel:
         print("=== DIAGNOSE NEUE PREDIGT ===")
