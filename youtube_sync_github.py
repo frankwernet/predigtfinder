@@ -44,10 +44,19 @@ def ist_oeffentlich(video_id):
             text=True,
             timeout=60
         )
+        
+        if video_id == "OU7gtkVSDwc":
+            print("=== YOUTUBE-OEFFENTLICHKEIT ===")
+            print("Returncode:", ergebnis.returncode)
+            print("Stdout:", repr(ergebnis.stdout.strip()))
+            print("Stderr:", ergebnis.stderr[-1500:])
+            print("=== ENDE YOUTUBE-OEFFENTLICHKEIT ===")
+
         return (
             ergebnis.returncode == 0
             and ergebnis.stdout.strip() == "public"
         )
+
     except (subprocess.TimeoutExpired, OSError):
         return False
 videos = defaultdict(set)
