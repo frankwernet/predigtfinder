@@ -124,7 +124,7 @@ for predigt in predigten:
             print("Oeffentlich:", ist_oeffentlich(next(iter(kandidaten))))
         print("=== ENDE DIAGNOSE ===")
 
-        if len(kandidaten) == 1:
+    if len(kandidaten) == 1:
         video_id = next(iter(kandidaten))
         neue_links[datei] = (
             f"https://www.youtube.com/watch?v={video_id}"
@@ -134,6 +134,7 @@ for predigt in predigten:
         print(f"YOUTUBE-LINK: {neue_links[datei]}")
     elif len(kandidaten) > 1:
         mehrdeutig += 1
+
 
 ausgabe = basis / "videolinks_sync_test.json"
 ausgabe.write_text(
