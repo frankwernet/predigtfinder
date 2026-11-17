@@ -27,6 +27,7 @@ jobs:
       - name: YouTube-Kanal pruefen
         run: |
           yt-dlp --flat-playlist --ignore-errors --no-warnings \
+  --extractor-args "youtube:lang=de" \
             --print "%(id)s	%(title)s" \
             "https://www.youtube.com/@frankwernet/videos" \
             > youtube_sync_aktuell.txt
