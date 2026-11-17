@@ -83,6 +83,17 @@ for predigt in predigten:
     titel = Path(datei).stem
     kandidaten = videos.get(normalisiere(titel), set())
 
+    if "Die Religion ist nicht daran interessiert" in titel:
+        print("=== DIAGNOSE NEUE PREDIGT ===")
+        print("Gesuchter Titel:", titel)
+        print("Normalisierter Titel:", normalisiere(titel))
+        print("Gefundene Kandidaten:", kandidaten)
+        print("Erwartete Video-ID vorhanden:",
+              "OU7gtkVSDwc" in kandidaten)
+        if len(kandidaten) == 1:
+            print("Oeffentlich:", ist_oeffentlich(next(iter(kandidaten))))
+        print("=== ENDE DIAGNOSE ===")
+
     if len(kandidaten) == 1 and ist_oeffentlich(next(iter(kandidaten))):
         video_id = next(iter(kandidaten))
         neue_links[datei] = (
